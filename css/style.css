@@ -1,0 +1,118 @@
+.imagenmenu{
+ max-width: 60%;
+    margin: auto;
+    padding-top: 100px;
+}
+
+body{
+	font-family: futura-pt;
+	}
+
+.button {
+    background-color:#000000 !important;
+    color: #FFD135 !important;
+    text-align: center !important;
+font-family: "futura-pt", sans-serif;
+font-weight: 700;
+font-style: normal;
+    font-size: 40px;
+    border-radius: 35px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+h1 {
+font-family: "futura-pt", sans-serif;
+font-weight: 700;
+font-style: normal;
+    color: white;
+    font-size: 60px;
+    line-height: 150px;
+    margin-bottom: 0px !important;
+    padding-top: 70px;
+}
+
+h2 {
+font-family: "futura-pt", sans-serif;
+font-weight: 700;
+font-style: normal;
+    color: black;
+    font-size: 80px;
+    line-height: 150px;
+    padding-top: 90px;
+}
+
+h3 {
+font-family: "futura-pt", sans-serif;
+font-weight: 700;
+font-style: normal;
+    color: black;
+    font-size: 30px;
+    line-height: 150px;
+}
+
+h5 {
+font-family: "futura-pt", sans-serif;
+font-weight: 700;
+font-style: normal;
+    color: white;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+p {
+font-family: "futura-pt", sans-serif;
+font-weight: 700;
+font-style: normal;
+    color: white;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.navbar {
+    background-color: black !important;
+    width: 100%;
+    border-width: 2px !important;
+	height: 10vh;
+}
+
+.nav-link{
+font-family: "futura-pt", sans-serif;
+font-weight: 400;
+font-style: normal;
+    color: white;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.divvino {
+    background-color: maroon;
+    height: 50vh;
+	width:100%;
+}
+
+.divrojo {
+    background-color: red;
+    height: 50vh;
+}
+
+.divama {
+    background-color: #FFD135;
+    height: 50vh;
+}
+
+.divprin{
+	background-color: #FFD135;
+    height: 100vh;
+}
+
+.footer {
+    background-color: black;
+    height: 30vh;
+    color: white;
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
